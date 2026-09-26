@@ -16,7 +16,7 @@ I enjoy building scalable software solutions, automating business workflows, int
 
 **Databases:** PostgreSQL, MySQL, MongoDB
 
-**Data & AI:** Pandas, NumPy, Streamlit, LLM Applications, AI-Enabled Applications, Prompt Engineering
+**Data & AI:** Pandas, NumPy, Streamlit, LLM Applications, AI-Enabled Applications, Prompt Engineering, Gen AI, LangChain, LagGraph, RAG
 
 **Tools & Practices:** Git, Linux, Agile, SDLC, Testing, Debugging, Automation, SAP ERP
 
